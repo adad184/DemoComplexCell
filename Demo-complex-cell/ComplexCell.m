@@ -132,11 +132,6 @@
         }];
         self.vG.backgroundColor = [UIColor greenColor];
         
-        [self.cF deactivate];
-        [self.cB deactivate];
-        [self.cY deactivate];
-        [self.cR deactivate];
-        [self.cG deactivate];
     }
     
     //show group area
